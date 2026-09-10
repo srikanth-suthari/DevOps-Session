@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-<h1>Hello World</h1>
-
-aljfdlajl
-=======
->>>>>>> parent of 4ee39cf (added feature)
